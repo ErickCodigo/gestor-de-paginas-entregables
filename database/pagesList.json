@@ -1,0 +1,158 @@
+[
+  {
+    "id": "6ee1ac42-1ad9-4d25-9e35-10cdf5ecc693",
+    "name": "Seguro de salud Completo",
+    "url": "/salud/seguro-salud",
+    "category": "salud",
+    "components": [
+      {
+        "id": "1567c16f-6c26-4828-8b19-0a1fc21ee5a4",
+        "name": "pdp_hero"
+      },
+      {
+        "id": "3c5e561b-19c9-4653-b148-0d143afd88bd",
+        "name": "pdp_header_fixed"
+      },
+      {
+        "id": "65c234b0-eb78-4042-91c5-08df083f2243",
+        "name": "pdp_card_contextual"
+      },
+      {
+        "id": "ae8d666b-36bd-4d1b-97d3-37f1fae7c15c",
+        "name": "pdp_products"
+      },
+      {
+        "id": "617142a3-d0b5-4ee0-b97d-8c873d886b38",
+        "name": "pdp_tabs_accordion"
+      },
+      {
+        "id": "7636fd11-18fb-491f-8570-de517e5f74f2",
+        "name": "pdp_cards_benefits"
+      },
+      {
+        "id": "c9d26a17-8793-48c0-ab82-c67540a84340",
+        "name": "pdp_legal"
+      }
+    ]
+  },
+  {
+    "id": "079b8956-02f9-4bed-a8ec-9e475be3b663",
+    "name": "Seguro de Salud Flexible",
+    "url": "/salud/seguro-salud-flexible",
+    "category": "salud",
+    "components": [
+      {
+        "id": "6d63b784-1981-442e-90da-49a4b19f9e36",
+        "name": "wp_flex_hero"
+      },
+      {
+        "id": "b7668ef8-017b-4ae6-a10d-33c5867da950",
+        "name": "wp_flex_timeline"
+      },
+      {
+        "id": "e1a42acd-8b0c-4856-81d1-8c30cee83721",
+        "name": "wp_flex_cards_content"
+      },
+      {
+        "id": "81d9757d-5e50-493f-88fb-b5483cf2c13f",
+        "name": "wp_flex_tabs_accordion"
+      },
+      {
+        "id": "8adb0b47-e1b1-46e6-aa61-3f16bf4e296a",
+        "name": "wp_flex_headerfixed"
+      },
+      {
+        "id": "e69ac142-2f7f-4bbd-b478-fbeb8049b258",
+        "name": "pdp_legal"
+      }
+    ]
+  },
+  {
+    "id": "855cbe77-6b3e-4db6-9e7c-22bbfd736c6d",
+    "name": "Seguro Salud Vital Empresarial",
+    "url": "/salud/salud-empresarial",
+    "category": "salud",
+    "components": [
+      {
+        "id": "34ced318-4bbf-4960-a3c4-32380676631a",
+        "name": "pdp_hero"
+      },
+      {
+        "id": "e8cb6609-41af-4ac6-9502-45e1e5d08424",
+        "name": "pdp_header_fixed"
+      },
+      {
+        "id": "0ed8c40a-23fa-4b9e-ba35-39a83e24f827",
+        "name": "pdp_list"
+      },
+      {
+        "id": "ef8aafd7-cd69-47ec-a579-aafd6d98cb5c",
+        "name": "wp_flex_cards_content"
+      },
+      {
+        "id": "f463d424-9f5e-4235-b429-60f29981c8fa",
+        "name": "pdp_banner_important"
+      },
+      {
+        "id": "ce7081db-22e8-47d0-b47d-a163c5a8811c",
+        "name": "wp_flex_tabs_accordion"
+      },
+      {
+        "id": "33d506a5-6ac7-4b1d-a5b0-e7c8b8540d1e",
+        "name": "pdp_legal"
+      }
+    ]
+  },
+  {
+    "id": "d763e351-540b-44f7-b746-0f96de4cf45a",
+    "name": "Seguro de Salud Adulto Mayor",
+    "url": "/salud/seguro-salud-oro",
+    "category": "salud",
+    "components": [
+      {
+        "id": "3ae73129-a4f6-47c2-a859-da1d1e129360",
+        "name": "pdp_hero"
+      },
+      {
+        "id": "f3005967-a22c-41e4-81ff-c654a0217e37",
+        "name": "pdp_products"
+      },
+      {
+        "id": "e54c55d3-5cc1-48e3-95d9-0366ed595aae",
+        "name": "pdp_legal"
+      }
+    ]
+  },
+  {
+    "id": "8864fc8e-a00f-4d7d-a8b9-7f44c829fb09",
+    "name": "Continuidad Familiar EPS",
+    "url": "/salud/seguro-eps-familiar-continuidad",
+    "category": "salud",
+    "components": [
+      {
+        "id": "f511eb52-5172-442c-8051-5ada500c8068",
+        "name": "pdp_hero"
+      },
+      {
+        "id": "41255c32-9552-428b-82b8-1b9301023580",
+        "name": "pdp_legal"
+      }
+    ]
+  },
+  {
+    "id": "acd2b1a2-934a-4cfb-a1c2-b90073969d7a",
+    "name": "Seguro de Sepelio",
+    "url": "/vida/seguro-sepelio",
+    "category": "vida",
+    "components": [
+      {
+        "id": "a3abda8e-3543-44ba-a93f-5b7ac9df8e8a",
+        "name": "pdp_hero"
+      },
+      {
+        "id": "db90cf65-15ab-45ea-8d6a-6f492dd60f5d",
+        "name": "pdp_legal"
+      }
+    ]
+  }
+]

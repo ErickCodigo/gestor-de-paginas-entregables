@@ -1,0 +1,978 @@
+{
+  "pagesList": [
+    {
+      "id": "6ee1ac42-1ad9-4d25-9e35-10cdf5ecc693",
+      "name": "Seguro de salud Completo",
+      "url": "/salud/seguro-salud",
+      "category": "salud",
+      "components": [
+        {
+          "id": "1567c16f-6c26-4828-8b19-0a1fc21ee5a4",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "3c5e561b-19c9-4653-b148-0d143afd88bd",
+          "name": "pdp_header_fixed"
+        },
+        {
+          "id": "65c234b0-eb78-4042-91c5-08df083f2243",
+          "name": "pdp_card_contextual"
+        },
+        {
+          "id": "ae8d666b-36bd-4d1b-97d3-37f1fae7c15c",
+          "name": "pdp_products"
+        },
+        {
+          "id": "617142a3-d0b5-4ee0-b97d-8c873d886b38",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "7636fd11-18fb-491f-8570-de517e5f74f2",
+          "name": "pdp_cards_benefits"
+        },
+        {
+          "id": "c9d26a17-8793-48c0-ab82-c67540a84340",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "079b8956-02f9-4bed-a8ec-9e475be3b663",
+      "name": "Seguro de Salud Flexible",
+      "url": "/salud/seguro-salud-flexible",
+      "category": "salud",
+      "components": [
+        {
+          "id": "6d63b784-1981-442e-90da-49a4b19f9e36",
+          "name": "wp_flex_hero"
+        },
+        {
+          "id": "b7668ef8-017b-4ae6-a10d-33c5867da950",
+          "name": "wp_flex_timeline"
+        },
+        {
+          "id": "e1a42acd-8b0c-4856-81d1-8c30cee83721",
+          "name": "wp_flex_cards_content"
+        },
+        {
+          "id": "81d9757d-5e50-493f-88fb-b5483cf2c13f",
+          "name": "wp_flex_tabs_accordion"
+        },
+        {
+          "id": "8adb0b47-e1b1-46e6-aa61-3f16bf4e296a",
+          "name": "wp_flex_headerfixed"
+        },
+        {
+          "id": "e69ac142-2f7f-4bbd-b478-fbeb8049b258",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "855cbe77-6b3e-4db6-9e7c-22bbfd736c6d",
+      "name": "Seguro Salud Vital Empresarial",
+      "url": "/salud/salud-empresarial",
+      "category": "salud",
+      "components": [
+        {
+          "id": "34ced318-4bbf-4960-a3c4-32380676631a",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "e8cb6609-41af-4ac6-9502-45e1e5d08424",
+          "name": "pdp_header_fixed"
+        },
+        {
+          "id": "0ed8c40a-23fa-4b9e-ba35-39a83e24f827",
+          "name": "pdp_list"
+        },
+        {
+          "id": "ef8aafd7-cd69-47ec-a579-aafd6d98cb5c",
+          "name": "wp_flex_cards_content"
+        },
+        {
+          "id": "f463d424-9f5e-4235-b429-60f29981c8fa",
+          "name": "pdp_banner_important"
+        },
+        {
+          "id": "ce7081db-22e8-47d0-b47d-a163c5a8811c",
+          "name": "wp_flex_tabs_accordion"
+        },
+        {
+          "id": "33d506a5-6ac7-4b1d-a5b0-e7c8b8540d1e",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "d763e351-540b-44f7-b746-0f96de4cf45a",
+      "name": "Seguro de Salud Adulto Mayor",
+      "url": "/salud/seguro-salud-oro",
+      "category": "salud",
+      "components": [
+        {
+          "id": "3ae73129-a4f6-47c2-a859-da1d1e129360",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "f3005967-a22c-41e4-81ff-c654a0217e37",
+          "name": "pdp_products"
+        },
+        {
+          "id": "e54c55d3-5cc1-48e3-95d9-0366ed595aae",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "8864fc8e-a00f-4d7d-a8b9-7f44c829fb09",
+      "name": "Continuidad Familiar EPS",
+      "url": "/salud/seguro-eps-familiar-continuidad",
+      "category": "salud",
+      "components": [
+        {
+          "id": "f511eb52-5172-442c-8051-5ada500c8068",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "41255c32-9552-428b-82b8-1b9301023580",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "acd2b1a2-934a-4cfb-a1c2-b90073969d7a",
+      "name": "Seguro de Sepelio",
+      "url": "/vida/seguro-sepelio",
+      "category": "vida",
+      "components": [
+        {
+          "id": "a3abda8e-3543-44ba-a93f-5b7ac9df8e8a",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "db90cf65-15ab-45ea-8d6a-6f492dd60f5d",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "4b99c6a1-3579-49d6-a11f-71e9d275858b",
+      "name": "Seguro EPS",
+      "url": "/salud/eps",
+      "category": "salud",
+      "components": [
+        {
+          "id": "0854f657-e10c-4060-8777-eeb2bc1144c1",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "451fdb27-0817-4ffa-8361-c5ca72eb3088",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "1b76aa60-b7f9-45d3-82b4-556823f99877",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "4dfa9127-680f-4d37-b3c0-ff4149e06f1c",
+          "name": "pdp_list"
+        },
+        {
+          "id": "650f01bc-884b-4389-848a-0ba143bed825",
+          "name": "pdp_list"
+        },
+        {
+          "id": "9a962160-69c6-42c4-9eb2-f9f0bf57f0fa",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "07547be0-24dc-456e-9d31-7d8a8104297b",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "cfd1cd75-888a-42a8-b81d-48b86ab31f79",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "43fa5591-1a21-4967-8984-3448f15ae1dd",
+      "name": "Seguro Red Médica Hospitalaria",
+      "url": "/salud/seguro-salud-red-hospitalaria",
+      "category": "salud",
+      "components": [
+        {
+          "id": "64805f21-f456-4e74-b176-942d26be0bda",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "20a2f65a-dd48-47a0-9d5d-8847226da0a6",
+          "name": "pdp_list"
+        },
+        {
+          "id": "b30f2aae-0fb0-475c-a64e-d7c0a287dec1",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "2bc59ab3-3713-4715-b114-7e5d628f0352",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "fc843397-419d-4ced-807b-b7c034ca7e72",
+      "name": "Seguro de Renta Hospitalaria ",
+      "url": "/salud/seguro-renta-hospitalaria",
+      "category": "salud",
+      "components": [
+        {
+          "id": "2517417d-f85d-41df-954e-78eb1589c622",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "0d7d2dd6-3f8b-4594-ba7a-3f70d3dce1e0",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "5a8f20d1-db88-4eae-a358-5bbe98d7c844",
+          "name": "pdp_products"
+        },
+        {
+          "id": "66f22352-036d-4e5a-b587-5664658f48fc",
+          "name": "pdp_list"
+        },
+        {
+          "id": "dc364881-19a6-4842-bf6b-e87bffb91d1c",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "16de3ca4-b581-4572-acef-59689db9371b",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "5ac33001-6d1b-4167-b032-3651c538479d",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "3804aa09-531a-4b72-8255-69b927b5286e",
+      "name": "Seguro Vehicular",
+      "url": "/vehicular/seguro-vehicular",
+      "category": "vehicular",
+      "components": [
+        {
+          "id": "e8fddc5b-723c-4445-a9de-0de054a26167",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "78475bcb-1547-46cf-b199-eb8d67ca2cf1",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "f1f4d6a5-02bc-4729-a175-1cb76c9fbaca",
+          "name": "pdp_products"
+        },
+        {
+          "id": "9e2b4396-bec5-4505-8b4d-caf2956e4225",
+          "name": "pdp_banner_important"
+        },
+        {
+          "id": "8aeda06d-b849-48bc-a583-73e00d32523e",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "04ce2e68-00f5-43cc-9d44-f7ae07c8466e",
+          "name": "pdp_testimony"
+        },
+        {
+          "id": "40323335-aeb1-4086-8ea9-d011f4eaebc3",
+          "name": "pdp_advisory"
+        },
+        {
+          "id": "528d13ff-25e2-4ce5-9ca9-6c07b7cda5a1",
+          "name": "pdp_crosseling"
+        },
+        {
+          "id": "5ddf66cd-a112-4838-ae87-c5cb94c6ee48",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "ee962568-71d0-4f60-adbd-225c51cd13be",
+      "name": "SOAT Electrónico",
+      "url": "/vehicular/soat",
+      "category": "vehicular",
+      "components": [
+        {
+          "id": "b298bcb0-1614-47ba-91f3-f2dfdeb579f7",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "cd008f67-69df-4937-9646-d9c6ea172402",
+          "name": "pdp_cards_benefits"
+        },
+        {
+          "id": "48fde96f-f291-42d2-9ffe-83018ab82a3c",
+          "name": "pdp_products"
+        },
+        {
+          "id": "f21437c5-4918-45a6-b846-f8cf07ea368e",
+          "name": "pdp_card_contextual"
+        },
+        {
+          "id": "eb63c727-2a42-4ad7-a090-2de8cb7db6d2",
+          "name": "pdp_list"
+        },
+        {
+          "id": "83276aa8-b724-410d-afa6-847a38ab8de5",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "155a16a0-f23b-4e28-a502-fab02efa850c",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "d3bff80b-e44e-429f-a91e-2da87c5bc9be",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "178f47fe-8e9c-43ce-a8c7-be2d67673cf0",
+      "name": "Seguro Pago por kilómetros",
+      "url": "/vehicular/seguro-pago-por-kilometros",
+      "category": "vehicular",
+      "components": [
+        {
+          "id": "26ad52af-df3e-4324-8bca-a9ceadcded53",
+          "name": "wp_flex_hero"
+        },
+        {
+          "id": "3077d604-fe5a-407b-99fb-074a6a28e108",
+          "name": "wp_flex_headerfixed"
+        },
+        {
+          "id": "b2d67c13-0ee7-4d36-a90e-224e0ecf13e8",
+          "name": "wp_flex_cards_content"
+        },
+        {
+          "id": "881dd0e1-579d-4904-95c1-5475aaba40b5",
+          "name": "wp_flex_plans"
+        },
+        {
+          "id": "66f05fca-68f4-4492-9264-1e1d76572eb4",
+          "name": "wp_flex_banner_important"
+        },
+        {
+          "id": "2466b95d-3606-4d69-b841-2d8d951e255d",
+          "name": "wp_flex_products"
+        },
+        {
+          "id": "0ddf814e-62f0-484e-b6f0-45b68cc1c119",
+          "name": "wp_flex_tabs_accordion"
+        },
+        {
+          "id": "50e2c308-362b-46ae-80b4-66badef65b5d",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "def090f1-2530-43ad-8183-31a0a231fd23",
+      "name": "Seguro Vehicular Flexible",
+      "url": "/vehicular/seguro-vehicular-flexible",
+      "category": "vehicular",
+      "components": [
+        {
+          "id": "f8f547bf-f88f-4236-99e0-05aa5996e2a3",
+          "name": "wp_flex_hero"
+        },
+        {
+          "id": "1d255099-40b3-41b9-9ba7-7f6b224d0531",
+          "name": "wp_flex_headerfixed"
+        },
+        {
+          "id": "35ff807e-b835-4835-9264-a03b76ee7676",
+          "name": "wp_flex_cards_content"
+        },
+        {
+          "id": "109346d5-640f-436c-a4f2-7cc37dec9522",
+          "name": "wp_flex_tabs_accordion"
+        },
+        {
+          "id": "75bf5495-2526-41c1-b9ae-4c9b00ca9068",
+          "name": "wp_flex_timeline"
+        },
+        {
+          "id": "04dc2781-9ca8-475a-8edc-918fb3393c65",
+          "name": "wp_flex_testimony"
+        }
+      ]
+    },
+    {
+      "id": "6e854ec6-237b-4304-9877-266164e20c37",
+      "name": "Pakta: Seguro en caso de robo total",
+      "url": "/vehicular/seguro-pakta",
+      "category": "vehicular",
+      "components": [
+        {
+          "id": "fad09c92-3317-4d40-95fd-3bf77716574f",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "2d087cd7-98b5-4c8b-a665-90f8c50d4ab8",
+          "name": "pdp_cards_benefits"
+        },
+        {
+          "id": "2cf7a437-aea0-47a2-aaa1-79cda5a85684",
+          "name": "pdp_products"
+        },
+        {
+          "id": "ad0a5194-6b7b-47bb-bce6-01ace19912ae",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "8737122e-5597-477c-8285-4f21f5af2344",
+          "name": "pdp_list"
+        },
+        {
+          "id": "8649378d-74b7-438a-ac50-1e72db8184c4",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "e5ae71b1-3bce-4382-882b-c2613af05f3a",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "b8a94bcc-1e59-4d5c-aeb4-0d59d9d0cfa5",
+      "name": "Vida Contigo Devolución Garantizada",
+      "url": "/vida/seguro-vida-devolucion-garantizada",
+      "category": "vida",
+      "components": [
+        {
+          "id": "67a875a9-5a25-45ed-adda-d3de89c3ba49",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "2f965886-fa69-419a-a910-2803b9f29f9e",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "8545bb85-bf31-4db4-9534-5db58226cccc",
+          "name": "pdp_products"
+        },
+        {
+          "id": "dec3d16a-3ab2-4c3b-83e6-41eb6b2d031f",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "ee76073d-445b-445b-b212-44deebd1a214",
+          "name": "pdp_timeline"
+        },
+        {
+          "id": "e3371c02-f6ce-4517-aa30-1a628f9f72f0",
+          "name": "pdp_advisory"
+        },
+        {
+          "id": "37b739af-cbd7-40fa-bb83-53b765c77c16",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "2eeb7a3c-c48c-4c87-b6d2-851daab2a093",
+      "name": "Plan Vida Flexible",
+      "url": "/vida/seguro-vida-plan-flexible",
+      "category": "vida",
+      "components": [
+        {
+          "id": "a157b1e7-7c22-467c-8206-24a1379b8fcc",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "a43a5627-73bc-4441-a1bc-3b0e0954eb71",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "ca4839b1-2c4b-456d-a577-093072aa92f5",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "7f9c8f3c-d2fb-4e43-abe0-48cb3c66e5f7",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "dbdfdd31-b66e-496a-b395-41e6faf37dcf",
+          "name": "pdp_list"
+        },
+        {
+          "id": "510330e7-375a-4d83-ab49-59de1d39b720",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "12a0525f-1422-4bc4-8d38-af58a5fd19e8",
+      "name": "Seguro Vida Ahorro Seguro",
+      "url": "/vida/seguro-vida-ahorro-seguro",
+      "category": "vida",
+      "components": [
+        {
+          "id": "4f830973-18b9-4368-9535-e30ace0695b5",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "e73827f9-6ca0-43a8-9e3e-d5a23b1fe473",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "b1c2a855-b6af-4375-893e-b54ab1c9576b",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "679dee5c-ba0c-48c0-a2ee-ef2845befbd5",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "eca42a50-4ba7-4659-ba6f-b1e402ac8aff",
+          "name": "pdp_list"
+        },
+        {
+          "id": "4104a9d0-0e6a-4004-97d4-2fb765aad238",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "40d48547-1803-4fac-9813-d3d77890327a",
+      "name": "Seguro Renta Garantizada",
+      "url": "/vida/seguro-vida-inversion-global",
+      "category": "vida",
+      "components": [
+        {
+          "id": "d5664212-c6e0-4dd2-b5d2-f14a808a371a",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "6f173acf-6168-43dd-93b1-eadbae9967ce",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "5891c130-3641-4381-9cb9-ae5d4eee800b",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "b6baaf30-8d58-4784-8458-2e8029b326cf",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "a9b1a721-a648-48b7-9fae-1495e73903d3",
+      "name": "Seguro Renta Garantizada",
+      "url": "/vida/seguro-vida-renta-garantizada",
+      "category": "vida",
+      "components": [
+        {
+          "id": "8a77a53e-b1f8-472e-a613-f609757f5e99",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "60837dbe-711f-4866-998e-923e1804f575",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "2e8c9941-9eb1-4e31-b461-dfb1772825fb",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "554aa8b0-00ba-4a22-b8f5-2faebfa4f409",
+          "name": "pdp_list_links"
+        },
+        {
+          "id": "d2afb8b1-41f6-4bd8-8750-6aab5b9b8329",
+          "name": "pdp_list"
+        },
+        {
+          "id": "fef420f2-b285-443d-99cb-43079c946feb",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "141d1645-21a5-4681-b8cb-30a0515f78ab",
+      "name": "Seguro Rentas Vitalicias",
+      "url": "/vida/inversion/seguro-renta-vitalicia",
+      "category": "vida",
+      "components": [
+        {
+          "id": "0e043ada-dccf-4919-91f2-9a6dcc9b8514",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "c9507c7b-eb68-4e7a-8401-fe605225151c",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "1a590b40-4f3e-46bd-bb20-27ae94444657",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "6abd7f1c-7885-4b3b-8f45-fb861b8e5ae9",
+          "name": "pdp_list"
+        },
+        {
+          "id": "464012a5-f666-4294-b42e-a465cdfc9bb0",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "ce245d38-4cbe-4d8f-bd8b-4f858c90d4cd",
+      "name": "Seguro de Vida con Devolución",
+      "url": "/vida/seguro-vida-devolucion",
+      "category": "vida",
+      "components": [
+        {
+          "id": "5549cd85-2793-42ac-a5ca-5a3d06dbb909",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "8f32006f-6353-4476-af4e-308b17104b3c",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "802628b8-cb7c-4858-b853-0fb4428c45b9",
+          "name": "pdp_products"
+        },
+        {
+          "id": "9506be6a-aed7-4182-a368-900a691b1e5e",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "080aaa4d-186e-4c24-9504-7c03a4d0ec39",
+          "name": "pdp_list"
+        },
+        {
+          "id": "7ae4f2d2-238c-4d4f-aabb-8bb918ba45e5",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "b52fde46-2b84-4d5a-a403-37fae6b1c13a",
+      "name": "Seguro de Vida y Accidentes",
+      "url": "/vida/seguro-accidentes",
+      "category": "vida",
+      "components": [
+        {
+          "id": "ebcd42a4-7254-4b14-aeab-970e8b437c2b",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "7592a419-6492-4829-ba4d-fee299adacdd",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "158961f8-2be5-4d2b-93f8-736d0f013e83",
+          "name": "pdp_products"
+        },
+        {
+          "id": "388d9ac4-ebf8-4910-8a22-643ca23618c8",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "e8b01e1a-e24f-4cb6-958a-4005fd666c06",
+          "name": "pdp_list"
+        },
+        {
+          "id": "1242075d-5eb6-48dd-9d95-cd2fe36a7411",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "ee84936d-1cc9-402b-b435-2dbfbd920c9b",
+      "name": "Seguro de Vida Temporal Total",
+      "url": "/vida/seguro-vida-temporal",
+      "category": "vida",
+      "components": [
+        {
+          "id": "9e88d555-8327-41df-8757-804f20dc3887",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "5e0a1300-0b6e-49e0-8f7c-f06039c8c148",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "af8b9340-b428-476f-ad66-19e61dee95db",
+          "name": "pdp_products"
+        },
+        {
+          "id": "5cb6c6db-d654-4b08-8fe0-a2312f652e89",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "5766b514-489b-40a3-99f9-9282ac186c98",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "0123ba97-8dda-435d-823d-3b985b65b4cc",
+      "name": "Seguro Casa a tu medida",
+      "url": "/hogar-y-otros/seguro-casa-a-tu-medida",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "5ca011d5-2994-40f8-a198-12beb6344205",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "3d68c833-8ebc-4467-9c80-b5fe72eef375",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "47d1cb98-17f9-4333-9169-05a8a8da2777",
+          "name": "pdp_banner_important"
+        },
+        {
+          "id": "a8bf1010-e860-4685-b6e9-cffb65e99cd3",
+          "name": "pdp_list"
+        },
+        {
+          "id": "4fed8ecf-367b-427a-95b7-6a550dd92b15",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "4de3b0f9-3dcc-4686-929c-f01938d96ff2",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "6a84c768-b8cb-4c12-b52d-b91779dbdc84",
+      "name": "Seguro Vida Ley",
+      "url": "/trabajadores/seguro-vida-ley",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "edd0758c-7290-4890-b5c2-87c0a110a99f",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "05f6fc28-5e05-423b-9c3d-8402ae9a36ba",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "c291841c-a91f-4496-a78a-5786a8af3d39",
+          "name": "pdp_banner_important"
+        },
+        {
+          "id": "409d740f-5a84-4e49-8fce-3525a3ae4bd9",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "cccc1669-de40-45fd-8b80-e246a0d26273",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "9b8b039d-02bb-46e7-b606-be70fd8b63c7",
+      "name": "Accidentes Personales Colectivos",
+      "url": "/trabajadores/accidentes-personales-colectivos",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "610b1a8b-8edf-47f8-837a-4dd7b76fe32e",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "519b6cad-dede-4caa-b66e-1eea16f58e63",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "cbbf8e2e-cb38-4878-acdb-485628c1dbde",
+          "name": "pdp_list"
+        },
+        {
+          "id": "33c340d4-c63d-484c-a421-9f9118fc3432",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "4bead413-af2a-469b-914c-27b77623c55d",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "a048efd8-7806-461f-ac82-3c20684fbf2a",
+      "name": "Seguro Vida Plus",
+      "url": "/trabajadores/seguro-vida-plus",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "8f40d6c1-da54-4263-b4fd-c57b851f2c80",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "468e8fef-1bd5-40b2-9c49-a8acc2ff5031",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "e54836cb-f3ae-441c-9da2-b444ae235492",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "790f8877-8381-46cf-b9dd-b6b6d128b522",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "6d3e904c-26e2-487d-9454-4c2666438643",
+      "name": "Seguro Salud Emprendedores",
+      "url": "/salud/seguro-salud-emprendedores",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "eb76042a-db62-428e-98fc-d92a0e4d0fbe",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "561aab35-4b01-4902-9339-65a6b390f2a0",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "9bec1759-4ecf-4b32-a6d2-3cd2e53ba7e0",
+      "name": "Seguro Vida Grupo",
+      "url": "/trabajadores/seguro-vida-grupo",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "77097b3c-fe95-412c-b22e-a75e29622083",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "43a3f454-206f-45e5-a498-be0a7442964d",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "1cecbf79-d8ad-4884-bbd9-4492dc88542c",
+          "name": "pdp_list"
+        },
+        {
+          "id": "909e6f1b-6667-4c8f-acb7-904250c1e595",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "37e4aa2e-f15e-4a95-8ebd-757ab5db1f04",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "13028899-def0-4d30-b85f-d08bb3c3eb1f",
+      "name": "Seguro FOLA",
+      "url": "/trabajadores/fola-seguro-formacion-laboral",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "972e732d-7392-45a0-aba2-236550a976e7",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "cf7d9c7f-8daf-4c13-87e1-34ddbccaae87",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "f4effb57-7a78-444a-bbc8-163cc6fa9139",
+          "name": "pdp_banner_important"
+        },
+        {
+          "id": "798bf22a-b06a-4208-b2c0-170618206826",
+          "name": "pdp_list"
+        },
+        {
+          "id": "69bb821d-75e9-4f6e-973e-6d91274ed855",
+          "name": "pdp_advisory_links"
+        },
+        {
+          "id": "a3bc959a-8ebc-4e1a-89ba-d04784e765fd",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "3f708e0c-0e88-4337-a325-ed13ca7aaf53",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "466d5cc1-7d7f-4c38-85b0-d3bafdd00ba0",
+      "name": "Seguro Oncológico Empresarial",
+      "url": "/trabajadores/seguro-oncologico-colectivo-integral",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "dc1d3c80-4a94-4650-91f0-8155f6652185",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "6b86ea7d-edf0-4f34-b8fe-934d798f4cd6",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "7b490952-2795-44aa-87ec-539db0d828c9",
+          "name": "pdp_list"
+        },
+        {
+          "id": "fc9d5897-05d1-4329-8228-8264f37e0adc",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "e5476122-ae35-4e57-a398-01bf13e2d11d",
+          "name": "pdp_legal"
+        }
+      ]
+    },
+    {
+      "id": "49e0dfd0-5e02-4546-8cae-9e0fe9dd0f0a",
+      "name": "Asistencia Médica Colectiva",
+      "url": "/trabajadores/asistencia-medica-colectiva",
+      "category": "Hogar y otros",
+      "components": [
+        {
+          "id": "dc1d3c80-4a94-4650-91f0-8155f6652185",
+          "name": "pdp_hero"
+        },
+        {
+          "id": "6b86ea7d-edf0-4f34-b8fe-934d798f4cd6",
+          "name": "pdp_cards_content"
+        },
+        {
+          "id": "7b490952-2795-44aa-87ec-539db0d828c9",
+          "name": "pdp_list"
+        },
+        {
+          "id": "fc9d5897-05d1-4329-8228-8264f37e0adc",
+          "name": "pdp_tabs_accordion"
+        },
+        {
+          "id": "e5476122-ae35-4e57-a398-01bf13e2d11d",
+          "name": "pdp_legal"
+        }
+      ]
+    }
+  ],
+  "finishedComponents": [],
+  "finishedPagesList": []
+}
